@@ -11,6 +11,11 @@ Posts I wrote:
 
 ![](images/qrcode.jpg)
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyrchen&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrchen&layout=compact&langs_count=4&hide=javascript,html,css"/>
+</p>
+
 [![Tyr Chen's github stats](https://github-readme-stats.vercel.app/api?username=tyrchen&theme=gruvbox)](https://github.com/tyrchen?tab=repositories&q=&type=source&language=rust)
 
 <!--
